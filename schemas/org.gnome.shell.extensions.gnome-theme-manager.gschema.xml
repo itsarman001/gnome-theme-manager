@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.gnome-theme-manager"
+          path="/org/gnome/shell/extensions/gnome-theme-manager/">
+    <!-- Empty string = leave that setting untouched -->
+    <key name="light-accent" type="s"><default>''</default></key>
+    <key name="light-background" type="s"><default>''</default></key>
+    <key name="light-cursor" type="s"><default>''</default></key>
+    <key name="light-icons" type="s"><default>''</default></key>
+    <key name="light-shell" type="s"><default>''</default></key>
+    <key name="light-legacy" type="s"><default>''</default></key>
+
+    <key name="dark-accent" type="s"><default>''</default></key>
+    <key name="dark-background" type="s"><default>''</default></key>
+    <key name="dark-cursor" type="s"><default>''</default></key>
+    <key name="dark-icons" type="s"><default>''</default></key>
+    <key name="dark-shell" type="s"><default>''</default></key>
+    <key name="dark-legacy" type="s"><default>''</default></key>
+
+    <key name="auto-enabled" type="b"><default>false</default></key>
+    <key name="light-time" type="s"><default>'07:00'</default></key>
+    <key name="dark-time" type="s"><default>'19:00'</default></key>
+  </schema>
+</schemalist>

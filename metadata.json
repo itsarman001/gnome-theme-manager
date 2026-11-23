@@ -1,0 +1,8 @@
+{
+  "uuid": "gnome-theme-manager@itsarman001",
+  "name": "GNOME Theme Manager",
+  "description": "Applies a saved theme profile (accent, wallpaper, cursor, icons, shell and legacy theme) whenever GNOME switches between light and dark mode, with an optional time-based schedule.",
+  "shell-version": ["47", "48", "49", "50", "51"],
+  "settings-schema": "org.gnome.shell.extensions.gnome-theme-manager",
+  "url": "https://github.com/itsarman001/gnome-theme-manager"
+}
